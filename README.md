@@ -20,7 +20,7 @@
 ### Data Cleaning and Preparation
 - Data loading and inspection.
 - Handling errors, missing values.
-- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here [Readi for Dashboard](https://github.com/user-attachments/files/19412126/Dashboard.xlsx)
+- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here [Movies Readi for Dashboard](https://github.com/user-attachments/files/19412126/Dashboard.xlsx)
 ###  Questions for Data Analysis
 1. Which top 10 genres were the most successful (Box)  these years?
 2. Which to 5 actors were the most successful?...
